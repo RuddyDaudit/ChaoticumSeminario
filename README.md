@@ -1,1 +1,1 @@
-RuddyDaudit/ChaoticumSeminario/blob/main/AleaConf.html
+ruddydaudit.github.io/ChaoticumSeminario/
